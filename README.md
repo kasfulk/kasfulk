@@ -10,3 +10,4 @@ Fullstack Developer who lives in Balikpapan. Has 11 years of experience in the I
 - Nest.js
 - Vue.js
 - Next.js
+- React

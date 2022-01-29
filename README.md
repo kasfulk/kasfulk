@@ -3,6 +3,12 @@ Fullstack Developer at klinikpintar.id lives in Balikpapan, Indonesia. Has 11 ye
 
 ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasfulk&layout=compact)
 
+## Language ever used:
+- Javascript
+- PHP
+- Python
+- Shellscript
+
 ## Framework ever used:
 - Codeigniter
 - Laravel
@@ -12,12 +18,13 @@ Fullstack Developer at klinikpintar.id lives in Balikpapan, Indonesia. Has 11 ye
 - Next.js
 - React
 
-## DB ever used:
+## DB that's i have ever used:
 
 ### SQL :
 - MySQL
 - PostgreSQL
 - Apache Hive
+- Oracle Database
 
 
 ### NoSQL :

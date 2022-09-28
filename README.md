@@ -4,6 +4,7 @@ Fullstack Developer at klinikpintar.id lives in Balikpapan, Indonesia. Has 11 ye
 ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasfulk&layout=compact)
 
 ## Language ever used:
+- Typescript
 - Javascript
 - PHP
 - Python

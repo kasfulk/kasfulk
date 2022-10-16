@@ -8,6 +8,7 @@ Fullstack Developer at klinikpintar.id lives in Balikpapan, Indonesia. Has 11 ye
 - Javascript
 - PHP
 - Python
+- Golang
 - Shellscript
 
 ## Framework ever used:

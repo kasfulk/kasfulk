@@ -13,6 +13,8 @@ Frontend Developer at BerandaToko lives in Balikpapan, Indonesia. Has 12 years o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-3776AC?style=flat-square&logo=go&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/ShellScript-000000?style=flat-square&logo=linux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Frameworks:
 - Codeigniter

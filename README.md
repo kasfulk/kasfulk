@@ -26,6 +26,7 @@ Frontend Developer at BerandaToko lives in Balikpapan, Indonesia. Has 12 years o
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-DD4814?style=flat-square&logo=codeigniter&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)

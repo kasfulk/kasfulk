@@ -46,7 +46,7 @@ Frontend Developer at BerandaToko lives in Balikpapan, Indonesia. Has 12 years o
 ![Fedora](https://img.shields.io/badge/Fedora-212529?style=flat-square&logo=fedora&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-## DB that's i have ever used:
+## DBMS
 
 ### SQL :
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)

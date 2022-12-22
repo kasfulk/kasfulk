@@ -1,4 +1,3 @@
-# Kasjful Kurniawan
 Frontend Developer at BerandaToko lives in Balikpapan, Indonesia. Has 12 years of experience in the IT fields, and 6 years as a Software Developer.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kasful.bpp@gmail.com)
